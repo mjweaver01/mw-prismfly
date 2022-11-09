@@ -8,6 +8,43 @@
         "color_scheme": "background-1"
       }
     },
+    "77c0b00a-1abf-4854-b781-0c21ae5579d1": {
+      "type": "collection-tabs",
+      "blocks": {
+        "abe36722-a39f-4487-a313-1b71951c1c10": {
+          "type": "collection",
+          "settings": {
+            "collection": "all"
+          }
+        },
+        "2bb9defd-1d8e-4665-a911-b257bd8ee359": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories"
+          }
+        },
+        "e3d55be3-f72b-4ebe-ad20-885c6f55e574": {
+          "type": "collection",
+          "settings": {
+            "collection": "frames"
+          }
+        },
+        "33a3c52b-dbd1-4ab0-85a8-2a43dbe8929d": {
+          "type": "collection",
+          "settings": {
+            "collection": "wheels"
+          }
+        }
+      },
+      "block_order": [
+        "abe36722-a39f-4487-a313-1b71951c1c10",
+        "2bb9defd-1d8e-4665-a911-b257bd8ee359",
+        "e3d55be3-f72b-4ebe-ad20-885c6f55e574",
+        "33a3c52b-dbd1-4ab0-85a8-2a43dbe8929d"
+      ],
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -29,6 +66,7 @@
   },
   "order": [
     "banner",
+    "77c0b00a-1abf-4854-b781-0c21ae5579d1",
     "product-grid"
   ]
 }
